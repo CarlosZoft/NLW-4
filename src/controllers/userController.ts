@@ -27,4 +27,4 @@ import {User} from "../models/user";
     }
  }
 
- export {userController}
+ export {userController};
